@@ -1,7 +1,7 @@
 
 # Front End Refactoring Challenge
 
-### to run
+### To run
 1. clone repo
 2. `npm start`
 3. `npm run`
