@@ -1,6 +1,11 @@
 
 # Front End Refactoring Challenge
 
+### to run
+1. clone repo
+2. `npm start`
+3. `npm run`
+
 ### How I chose to refactor the code
 
 1. Reorganized all components into their own files to make them easier to find and also to allow for scalability.
